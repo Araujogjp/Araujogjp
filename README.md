@@ -20,12 +20,4 @@ Estou motivado a crescer profissionalmente e contribuir com dedicação e energi
 
 <h3 align="left">📫 Como me encontrar</h3>
 
-<p align="left">
-  <a href="mailto:joaopedroaraujo200300@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joão-pedro-araújo-gonçalves-94214933b/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
+<p align="left"> <a href="https://www.linkedin.com/in/joão-pedro-araújo-gonçalves-94214933b/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/araujo.jpedr0/?next=%2F/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
