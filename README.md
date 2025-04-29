@@ -20,8 +20,6 @@ Estou motivado a crescer profissionalmente e contribuir com dedicação e energi
 
 <h3 align="left">📫 Como me encontrar</h3>
 
-<h3 align="left">📫 Como me encontrar</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-pedro-araújo-gonçalves-94214933b/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
