@@ -1,5 +1,5 @@
 👋 Olá, eu sou João Pedro Araújo Gonçalves! <br>
-🎓 Estudante de Ciência da Computação (2º período) <br> 🎯 Em busca do meu primeiro estágio na área de tecnologia <br> 🚀 Apaixonado por aprender, criar projetos e evoluir como programador <br>
+🎓 Estudante de Ciência da Computação (3º período) <br> 🎯 Em busca do meu primeiro estágio na área de tecnologia <br> 🚀 Apaixonado por aprender, criar projetos e evoluir como programador <br>
 
 Sou alguém que acredita no poder da tecnologia para transformar ideias em realidade. Tenho uma mente curiosa e estou sempre em busca de novos conhecimentos, principalmente em áreas como desenvolvimento web, bancos de dados e lógica de programação.
 Além disso, gosto de me desafiar com projetos práticos para sair da teoria e aprimorar minhas habilidades de forma contínua.
